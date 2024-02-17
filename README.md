@@ -1,4 +1,4 @@
-This project is about Artificial Image Detection, hence AID.
+This project is about Artificial Image Detection or AID for short.
 
 I don't expect much to come of this, as I'm just messing around with CNNs and training, I was curious how well it'd be able to detect things.
 
